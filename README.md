@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kartick Das (@Kartick9796)
-- 👀 I’m interested in Data Analyst role.
+- 👀 I’m interested in Data Engineer role.
 - 🌱 I’ve aquired 'IBM Data Analyst' Professional Certificate by IBM on Coursera.
 - 💞️ I’m looking to collaborate on different projects with well profiled organization to offer values and for the sake of my growth.
 - 📫 How to reach me ...
